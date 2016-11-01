@@ -1,0 +1,6 @@
+## Interface: 70000
+## Title: Realm Detector
+## Author: Antistar
+## Version: 1.0
+
+main.lua
